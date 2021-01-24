@@ -23,7 +23,7 @@ services:
       # dns_cf 或 dns_namesilo 或 dns_namecheap
       - DNS_PROVIDER=dns_cf
       # 申请 DNS 证书的域名
-      - CERT_DOMAIN=.yinhe.icu
+      - CERT_DOMAIN=.dsvps.xyz
       # 使用 cloudflare DNS 验证
       - CF_Email=110539hang@gmail.com
       - CF_Key=878bf37bb0fb3a818009760ced2691ef45867
